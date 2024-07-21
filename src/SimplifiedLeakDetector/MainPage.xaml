@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SimplifiedLeakDetector.MainPage">
+    <Grid WidthRequest="200" HeightRequest="200"
+          Margin="10" RowSpacing="10"
+          VerticalOptions="Start"
+          HorizontalOptions="Start" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" Text=" &#x2022;"/>
+        <Label Grid.Column="1" Grid.Row="0" Text=" Add a component to test in Detector XAML Page."/>
+
+        <Label Grid.Column="0" Grid.Row="1" Text=" &#x2022;"/>
+        <Label Grid.Column="1" Grid.Row="1" Text=" Start the app in debugging mode."/>
+
+        <Label Grid.Column="0" Grid.Row="2" Text=" &#x2022;"/>
+        <Label Grid.Column="1" Grid.Row="2" Text=" Navigate to Detector Page to start testing for leaks!"/>
+
+        <Label Grid.Column="0" Grid.Row="3" Text=" &#x2022;"/>
+        <Label Grid.Column="1" Grid.Row="3" Text=" Wait until the page refreshes itself."/>
+
+        <Label Grid.Column="0" Grid.Row="4" Text=" &#x2022;"/>
+        <Label Grid.Column="1" Grid.Row="4" Text=" Keep your eye on the Output window."/>
+
+        <Label Grid.Column="0" Grid.Row="5" Text=" &#x2022;"/>
+        <Label Grid.Column="1" Grid.Row="5" Text=" The leak report will be released."/>
+
+        <Label Grid.Column="0" Grid.Row="6" Text=" &#x2022;"/>
+        <Label Grid.Column="1" Grid.Row="6" Text=" The app will shutdown automatically within seconds."/>
+    </Grid>
+</ContentPage>
