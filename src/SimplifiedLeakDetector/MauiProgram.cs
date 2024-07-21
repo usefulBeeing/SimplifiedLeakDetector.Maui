@@ -17,7 +17,7 @@ namespace SimplifiedLeakDetector
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 
             builder.UseLeakDetection(); // Output Leak test results
 #endif
