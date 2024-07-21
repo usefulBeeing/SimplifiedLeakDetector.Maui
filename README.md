@@ -36,3 +36,11 @@ A value could mean code, a suggestion, or even an honest opinion about the relia
 
 <img width="459" alt="_leakDetected" src="https://github.com/user-attachments/assets/769ee003-6037-46b8-8080-2d69ccde8bca">
 
+    Comparing 3rd party Calendar controls for possible leaks.
+    
+    In the following report, syncfusion Calendar control leaks badly!
+<img width="575" alt="_calendarControls" src="https://github.com/user-attachments/assets/fa7e8dd0-14ed-4138-8518-49376c172b24">
+<img width="586" alt="_calendarControlsLeakTestResult" src="https://github.com/user-attachments/assets/478c4cd9-5b73-426d-a328-fc41a3ff17c9">
+
+   
+
