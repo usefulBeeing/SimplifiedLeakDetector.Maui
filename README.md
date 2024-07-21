@@ -28,12 +28,11 @@ A value could mean code, a suggestion, or even an honest opinion about the relia
 
 <img width="297" alt="_homepage" src="https://github.com/user-attachments/assets/5fef1816-9645-4120-8608-30faa43be494">
 
-Success story :)
+    Success story :)
 
 <img width="548" alt="_GCsuccess" src="https://github.com/user-attachments/assets/da692ead-7941-42e4-9822-bab269176944">
 
-
-Leak detected :(
+    Leak detected :(
 
 <img width="459" alt="_leakDetected" src="https://github.com/user-attachments/assets/769ee003-6037-46b8-8080-2d69ccde8bca">
 
