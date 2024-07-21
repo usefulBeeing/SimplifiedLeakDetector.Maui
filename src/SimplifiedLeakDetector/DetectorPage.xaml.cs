@@ -2,12 +2,12 @@ namespace SimplifiedLeakDetector;
 
 public partial class DetectorPage : ContentPage
 {
-	public DetectorPage()
-	{
-		InitializeComponent();
-
-        if (Flags.DoneTesting == false)
-            TestForLeaks();
+    public DetectorPage()
+    {
+	InitializeComponent();
+	
+	if (Flags.DoneTesting == false)
+	    TestForLeaks();
     }
 
     async void TestForLeaks()
