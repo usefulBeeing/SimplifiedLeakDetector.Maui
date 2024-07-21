@@ -21,7 +21,7 @@
         </Grid.RowDefinitions>
 
         <Label Grid.Column="0" Grid.Row="0" Text=" &#x2022;"/>
-        <Label Grid.Column="1" Grid.Row="0" Text=" Add a component to test in Detector XAML Page."/>
+        <Label Grid.Column="1" Grid.Row="0" Text=" Add a component to the Detector XAML Page."/>
 
         <Label Grid.Column="0" Grid.Row="1" Text=" &#x2022;"/>
         <Label Grid.Column="1" Grid.Row="1" Text=" Start the app in debugging mode."/>
