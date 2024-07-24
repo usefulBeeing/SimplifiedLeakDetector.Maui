@@ -17,7 +17,7 @@ For example,
 - Elements of Libraries like [MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui).
 - Any third-party UI kit.
 # What makes this tool simplified?
-Because all you have to do is add a XAML component, fire the app, and sit back and watch :)
+Because all you have to do is add a XAML component, fire up the app, and sit back and watch :)
 # How reliable is this tool?
 This is an experimental project built around another toolkit; therefore, it comes with ZERO promises.
 # How can I help?
@@ -43,7 +43,7 @@ A value could mean code, a suggestion, or even an honest opinion about the relia
 <img width="586" alt="_calendarControlsLeakTestResult" src="https://github.com/user-attachments/assets/478c4cd9-5b73-426d-a328-fc41a3ff17c9">
 
 <big><pre>
-The [CalendarView.MAUI](https://github.com/AdamEssenmacher/MemoryToolkit.Maui) package did a very good job!
+The [CalendarView.MAUI](https://github.com/hjam40/Calendar.MAUI) package did a very good job!
 </pre></big>
    
 <img width="482" alt="_calendarViewMaui" src="https://github.com/user-attachments/assets/042046f6-e75d-42d0-ab05-633ddae7c2bc">
